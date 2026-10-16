@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Ravi+A+Samy;CTO+%7C+AI%2FML+Architect;Agentic+AI+%26+LLM+Systems;MCP+servers%2C+AI+SaaS%2C+Rust" alt="Typing animation: Hi, I'm Ravi A Samy. CTO, AI/ML Architect, Agentic AI and LLM Systems." />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Ravi+A+Samy;Co-Founder+%40+Stealth+AI+Startup;CTO+%7C+AI%2FML+Architect;Agentic+AI+%26+LLM+Systems" alt="Typing animation: Hi, I'm Ravi A Samy. Co-Founder at Stealth AI Startup, CTO, AI/ML Architect, Agentic AI and LLM Systems." />
 
 # Ravi A Samy
 
-**CTO | AI/ML Architect | Agentic AI & LLM Systems**
+**Co-Founder @ Stealth AI Startup | CTO | AI/ML Architect**
 
-📍 Stockholm, Sweden &nbsp;·&nbsp; CTO at **Citadel Technologies BV** &nbsp;·&nbsp; Involved with **AI Horizon Global / IAII**
+📍 Stockholm, Sweden &nbsp;·&nbsp; Co-Founder at **Stealth AI Startup** &nbsp;·&nbsp; CTO at **Citadel Technologies BV** &nbsp;·&nbsp; Involved with **AI Horizon Global / IAII**
 
 [![X](https://img.shields.io/badge/X-@senthazalravi-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/senthazalravi)
 [![Website](https://img.shields.io/badge/Website-senthazalravi.lovable.app-2F81F7?style=flat-square&logo=googlechrome&logoColor=white)](https://senthazalravi.lovable.app/)
@@ -18,7 +18,7 @@
 
 ## 👋 About me
 
-I build AI products end to end, from the first architecture sketch to the thing real people use every day. My focus is agentic AI and LLM systems: agents that call tools, MCP servers that plug models into real business workflows, and the SaaS platforms wrapped around them. As CTO at Citadel Technologies BV in Stockholm, I care just as much about security, compliance and reliability as I do about shipping fast. I also love building teams, and through AI Horizon Global / IAII I am hiring AI engineers and researchers who want to do the same.
+I build AI products end to end, from the first architecture sketch to the thing real people use every day. My focus is agentic AI and LLM systems: agents that call tools, MCP servers that plug models into real business workflows, and the SaaS platforms wrapped around them. I'm currently co-founding a stealth deep-tech AI startup engineering the next generation of intelligent systems, turning experimental AI into secure, scalable, high-performance intelligence. As CTO at Citadel Technologies BV in Stockholm, I care just as much about security, compliance and reliability as I do about shipping fast. I also love building teams, and through AI Horizon Global / IAII I am hiring AI engineers and researchers who want to do the same.
 
 ## 🎯 What I focus on
 
